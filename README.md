@@ -3,8 +3,8 @@
 ## BUILD IMAGE
 
 ```linux
-git clone https://github.com/happyshi0402/docker-ngrok-1.git docker-ngrok
-cd docker-ngrok
+git clone https://github.com/happyshi0402/wyk1.git wyk
+cd wyk
 docker build -t happyshi0402/ngrok .
 ```
 
